@@ -57,7 +57,7 @@
 </li>
 </ol>
 </li>
-<li>Credential Source
+<li>Credential Sources
 <ol>
 <li>\\tas-projects\DEPARTMENTS\MEDIA\1- Analytics and Dashboards\Bethpage\Log-In &amp; Passwords</li>
 </ol>
